@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) -41.9%, #FFFFFF 260.24%);
+opacity: 0.02;
+backdrop-filter: blur(100px);
+}
